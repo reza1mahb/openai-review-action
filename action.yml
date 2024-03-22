@@ -15,7 +15,7 @@ inputs:
     required: true
   OPENAI_API_KEY:
     description: 'OpenAI API Key'
-    required: true
+    required: false
   OPENAI_ORG_KEY:
     description: 'OpenAI Organization ID'
     required: true
